@@ -1,7 +1,7 @@
 property_id,amenities
-P001,"Pool,Gym,Parking"
-P002,"Garage,Garden,Gym"
+P001,"Pool,Gym"
+P002,"Garden,Gym"
 P003,"Pool,Gym"
 P004,"Garage,Garden"
 P005,"Pool,Parking"
-P006,"Garage,Garden,Gym"
+P006,"Garage,Garden"
