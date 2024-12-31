@@ -7,8 +7,7 @@
         "size_sqft": 1200,
         "num_bedrooms": 2,
         "num_bathrooms": 2,
-        "year_built": 2005,
-        "amenities": ["Pool", "Gym", "Parking"]
+        "year_built": 2005
     },
     {
         "property_id": "P002",
@@ -18,8 +17,7 @@
         "size_sqft": 1800,
         "num_bedrooms": 3,
         "num_bathrooms": 3,
-        "year_built": 2010,
-        "amenities": ["Garage", "Garden", "Gym"]
+        "year_built": 2010
     },
     {
         "property_id": "P003",
@@ -29,8 +27,7 @@
         "size_sqft": 900,
         "num_bedrooms": 1,
         "num_bathrooms": 1,
-        "year_built": 2015,
-        "amenities": ["Pool", "Gym"]
+        "year_built": 2015
     },
     {
         "property_id": "P004",
@@ -40,8 +37,7 @@
         "size_sqft": 1600,
         "num_bedrooms": 3,
         "num_bathrooms": 2,
-        "year_built": 2012,
-        "amenities": ["Garage", "Garden"]
+        "year_built": 2012
     },
     {
         "property_id": "P005",
@@ -51,8 +47,7 @@
         "size_sqft": 1100,
         "num_bedrooms": 2,
         "num_bathrooms": 2,
-        "year_built": 2010,
-        "amenities": ["Pool", "Parking"]
+        "year_built": 2010
     },
     {
         "property_id": "P006",
@@ -62,7 +57,6 @@
         "size_sqft": 2000,
         "num_bedrooms": 4,
         "num_bathrooms": 3,
-        "year_built": 2015,
-        "amenities": ["Garage", "Garden", "Gym"]
+        "year_built": 2015
     }
 ]
