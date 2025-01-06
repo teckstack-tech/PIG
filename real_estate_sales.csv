@@ -1,7 +1,0 @@
-property_id,property_type,location,sale_price,size_sqft,num_bedrooms,num_bathrooms,year_built
-P001,Apartment,Downtown,350000,1200,2,2,2005
-P002,House,Suburb,500000,1800,3,3,2010
-P003,Condo,City Center,400000,900,1,1,2015
-P004,Townhouse,Suburb,450000,1600,3,2,2012
-P005,Apartment,Downtown,375000,1100,2,2,2010
-P006,House,Suburb,520000,2000,4,3,2015
