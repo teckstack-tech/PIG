@@ -1,0 +1,11 @@
+Match_ID,Match_Date,Home_Team,Away_Team,Home_Team_Score,Away_Team_Score,Stadium
+1,2024-01-01,Team A,Team B,2,1,Stadium A
+2,2024-01-05,Team C,Team D,1,1,Stadium C
+3,2024-01-10,Team A,Team C,3,0,Stadium A
+4,2024-01-15,Team B,Team D,0,2,Stadium B
+5,2024-02-01,Team A,Team D,1,1,Stadium A
+6,2024-02-03,Team C,Team B,2,2,Stadium C
+7,2024-02-10,Team D,Team A,0,3,Stadium D
+8,2024-02-15,Team B,Team C,1,0,Stadium B
+9,2024-03-01,Team D,Team C,3,2,Stadium D
+10,2024-03-05,Team A,Team B,4,1,Stadium A
